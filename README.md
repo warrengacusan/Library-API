@@ -134,7 +134,7 @@ Table name: `BorrowRecords`
  
 ## Relationship Diagram (ER Diagram)
 
-![alt text](./image/Screenshot_11-5-2026_202551_dbdiagram.io.jpeg)
+![alt text](./images/Screenshot_11-5-2026_202551_dbdiagram.io.jpeg)
 
 **Relationships:**
 - An **Author** has many **Books** (one-to-many)
